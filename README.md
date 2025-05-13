@@ -98,10 +98,14 @@ Deepak_Netflix_EDA_Project.ipynb — The main Jupyter Notebook containing code, 
 netflix_dataset.csv — The cleaned Netflix dataset (optional if public)
 
 
-🙋‍♂️ About Me
+**🙋‍♂️ About Me**
+
+
 Hi! I'm Deepak Kumar, a Data Analyst passionate about uncovering insights from data to solve real-world problems.
-🔗 Let’s connect on LinkedIn
-📧 Email: deepakkumarsingh3736@gmail.com
+
+**🔗 Let’s connect on LinkedIn:**
+
+**📧 Email: deepakkumarsingh7774@gmail.com**
 
 
 **If you found this project insightful:**
